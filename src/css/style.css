@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(63, 164, 253);
+}
+
+.principal{
+    width: 80%;
+    height: 30vh;
+    margin: 30vh auto;
+    background-color: rgb(201, 201, 201);
+    border: 0.1rem solid black;
+    border-radius: 0.3rem;
+    box-shadow: 1rem 1rem 1rem black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tempo{
+    display:flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.tempo p{
+    text-align: center;
+    font-size: 2rem;
+    font-family:Arial, Helvetica, sans-serif;
+}
